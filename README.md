@@ -3,6 +3,7 @@
 - enterprise_1to5_matching.py 用于ST企业与Non-ST企业的1：5匹配，匹配结果见paired_result.xlsx
 - annual_report_crawler.py 用于爬取pdf版年报
 - stock_bar_comment_crawler.py 用于爬取特定年份的股吧评论，由于请求过多，程序会报异常，正在debug
+- 财务、管理指标，直接向CSMAR导入paired_result.xlsx即可；股票指标，直接下载Choice金融终端，并导入paired_result.xlsx即可
 
 中文隐式情感分析代码（节选）：
 - https://github.com/myeclipse/SMP2021-ECISA
