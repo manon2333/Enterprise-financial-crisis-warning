@@ -18,4 +18,3 @@
 - https://github.com/cxy229/BDCI2019-SENTIMENT-CLASSIFICATION
 - https://github.com/zhanlaoban/CCF_BDCI_2019_datafountain350
 
-是否使用混频
